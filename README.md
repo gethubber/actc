@@ -1,4 +1,4 @@
-# Project Title
+# World Coins
 
 Simple overview of use/purpose.
 
